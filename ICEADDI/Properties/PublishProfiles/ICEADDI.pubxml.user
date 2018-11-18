@@ -1,0 +1,484 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\emuwanga\Desktop\IceaNew</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="BankCodes.aspx">
+      <publishTime>08/06/2015 14:13:21</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>07/22/2015 14:18:35</publishTime>
+    </File>
+    <File Include="bin/App_Web_0pytx4pp.dll">
+      <publishTime>08/06/2015 11:54:26</publishTime>
+    </File>
+    <File Include="bin/App_Web_5gr5f5ax.dll">
+      <publishTime>08/06/2015 14:13:21</publishTime>
+    </File>
+    <File Include="bin/App_Web_cjtdl421.dll">
+      <publishTime>08/06/2015 12:41:11</publishTime>
+    </File>
+    <File Include="bin/App_Web_giihgyz4.dll">
+      <publishTime>08/06/2015 11:54:24</publishTime>
+    </File>
+    <File Include="bin/App_Web_tpg5aldd.dll">
+      <publishTime>08/06/2015 14:13:19</publishTime>
+    </File>
+    <File Include="bin/App_Web_uoofy3vy.dll">
+      <publishTime>08/06/2015 12:41:13</publishTime>
+    </File>
+    <File Include="bin/bankcodes.aspx.cdcab7d2.compiled">
+      <publishTime>08/06/2015 14:13:19</publishTime>
+    </File>
+    <File Include="bin/contactus.aspx.cdcab7d2.compiled">
+      <publishTime>08/06/2015 14:13:19</publishTime>
+    </File>
+    <File Include="bin/default.aspx.cdcab7d2.compiled">
+      <publishTime>08/06/2015 14:13:20</publishTime>
+    </File>
+    <File Include="bin/icea.dll">
+      <publishTime>08/06/2015 10:20:58</publishTime>
+    </File>
+    <File Include="bin/iceaamtchanged.aspx.cdcab7d2.compiled">
+      <publishTime>08/06/2015 14:13:21</publishTime>
+    </File>
+    <File Include="bin/iceaapproved.aspx.cdcab7d2.compiled">
+      <publishTime>08/06/2015 14:13:19</publishTime>
+    </File>
+    <File Include="bin/iceachecker.aspx.cdcab7d2.compiled">
+      <publishTime>08/06/2015 14:13:19</publishTime>
+    </File>
+    <File Include="bin/ICEADDI.dll">
+      <publishTime>08/06/2015 14:12:24</publishTime>
+    </File>
+    <File Include="bin/iceadenied.aspx.cdcab7d2.compiled">
+      <publishTime>08/06/2015 14:13:19</publishTime>
+    </File>
+    <File Include="bin/iceaduplicates.aspx.cdcab7d2.compiled">
+      <publishTime>08/06/2015 14:13:19</publishTime>
+    </File>
+    <File Include="bin/iceamaker.aspx.cdcab7d2.compiled">
+      <publishTime>08/06/2015 14:13:20</publishTime>
+    </File>
+    <File Include="bin/index.aspx.cdcab7d2.compiled">
+      <publishTime>08/06/2015 14:13:21</publishTime>
+    </File>
+    <File Include="bin/login.aspx.cdcab7d2.compiled">
+      <publishTime>08/06/2015 14:13:19</publishTime>
+    </File>
+    <File Include="bin/userregister.aspx.cdcab7d2.compiled">
+      <publishTime>08/06/2015 14:13:21</publishTime>
+    </File>
+    <File Include="bootstrap.css.map">
+      <publishTime>01/05/2015 10:18:17</publishTime>
+    </File>
+    <File Include="Classes/DataClasses1.dbml">
+      <publishTime>01/05/2015 09:11:43</publishTime>
+    </File>
+    <File Include="ContactUs.aspx">
+      <publishTime>08/06/2015 14:13:21</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>12/17/2014 11:03:56</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>12/12/2014 08:41:17</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>12/12/2014 08:41:17</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>07/22/2015 14:37:50</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>12/12/2014 08:41:17</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>12/12/2014 08:41:17</publishTime>
+    </File>
+    <File Include="Content/datepicker.css">
+      <publishTime>01/05/2015 10:25:35</publishTime>
+    </File>
+    <File Include="Content/datepicker3.css">
+      <publishTime>01/05/2015 10:25:35</publishTime>
+    </File>
+    <File Include="Content/themes/base/accordion.css">
+      <publishTime>12/12/2014 08:41:46</publishTime>
+    </File>
+    <File Include="Content/themes/base/all.css">
+      <publishTime>12/12/2014 08:41:46</publishTime>
+    </File>
+    <File Include="Content/themes/base/autocomplete.css">
+      <publishTime>12/12/2014 08:41:46</publishTime>
+    </File>
+    <File Include="Content/themes/base/base.css">
+      <publishTime>12/12/2014 08:41:46</publishTime>
+    </File>
+    <File Include="Content/themes/base/button.css">
+      <publishTime>12/12/2014 08:41:46</publishTime>
+    </File>
+    <File Include="Content/themes/base/core.css">
+      <publishTime>12/12/2014 08:41:46</publishTime>
+    </File>
+    <File Include="Content/themes/base/datepicker.css">
+      <publishTime>12/12/2014 08:41:46</publishTime>
+    </File>
+    <File Include="Content/themes/base/dialog.css">
+      <publishTime>12/12/2014 08:41:46</publishTime>
+    </File>
+    <File Include="Content/themes/base/draggable.css">
+      <publishTime>12/12/2014 08:41:46</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png">
+      <publishTime>12/12/2014 08:41:46</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_flat_75_ffffff_40x100.png">
+      <publishTime>12/12/2014 08:41:46</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png">
+      <publishTime>12/12/2014 08:41:46</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_65_ffffff_1x400.png">
+      <publishTime>12/12/2014 08:41:46</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_75_dadada_1x400.png">
+      <publishTime>12/12/2014 08:41:46</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png">
+      <publishTime>12/12/2014 08:41:46</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png">
+      <publishTime>12/12/2014 08:41:45</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png">
+      <publishTime>12/12/2014 08:41:45</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_222222_256x240.png">
+      <publishTime>12/12/2014 08:41:45</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_2e83ff_256x240.png">
+      <publishTime>12/12/2014 08:41:45</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_454545_256x240.png">
+      <publishTime>12/12/2014 08:41:45</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_888888_256x240.png">
+      <publishTime>12/12/2014 08:41:45</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_cd0a0a_256x240.png">
+      <publishTime>12/12/2014 08:41:45</publishTime>
+    </File>
+    <File Include="Content/themes/base/menu.css">
+      <publishTime>12/12/2014 08:41:45</publishTime>
+    </File>
+    <File Include="Content/themes/base/progressbar.css">
+      <publishTime>12/12/2014 08:41:45</publishTime>
+    </File>
+    <File Include="Content/themes/base/resizable.css">
+      <publishTime>12/12/2014 08:41:45</publishTime>
+    </File>
+    <File Include="Content/themes/base/selectable.css">
+      <publishTime>12/12/2014 08:41:45</publishTime>
+    </File>
+    <File Include="Content/themes/base/selectmenu.css">
+      <publishTime>12/12/2014 08:41:45</publishTime>
+    </File>
+    <File Include="Content/themes/base/slider.css">
+      <publishTime>12/12/2014 08:41:45</publishTime>
+    </File>
+    <File Include="Content/themes/base/sortable.css">
+      <publishTime>12/12/2014 08:41:45</publishTime>
+    </File>
+    <File Include="Content/themes/base/spinner.css">
+      <publishTime>12/12/2014 08:41:45</publishTime>
+    </File>
+    <File Include="Content/themes/base/tabs.css">
+      <publishTime>12/12/2014 08:41:45</publishTime>
+    </File>
+    <File Include="Content/themes/base/theme.css">
+      <publishTime>12/12/2014 08:41:45</publishTime>
+    </File>
+    <File Include="Content/themes/base/tooltip.css">
+      <publishTime>12/12/2014 08:41:45</publishTime>
+    </File>
+    <File Include="css/style.css">
+      <publishTime>01/06/2015 11:07:48</publishTime>
+    </File>
+    <File Include="default.aspx">
+      <publishTime>08/06/2015 14:13:21</publishTime>
+    </File>
+    <File Include="IceaAmtchanged.aspx">
+      <publishTime>08/06/2015 14:13:21</publishTime>
+    </File>
+    <File Include="iceaApproved.aspx">
+      <publishTime>08/06/2015 14:13:21</publishTime>
+    </File>
+    <File Include="iceaChecker.aspx">
+      <publishTime>08/06/2015 14:13:21</publishTime>
+    </File>
+    <File Include="iceaDenied.aspx">
+      <publishTime>08/06/2015 14:13:21</publishTime>
+    </File>
+    <File Include="IceaDuplicates.aspx">
+      <publishTime>08/06/2015 14:13:21</publishTime>
+    </File>
+    <File Include="iceaMaker.aspx">
+      <publishTime>08/06/2015 14:13:21</publishTime>
+    </File>
+    <File Include="Images/favicon.ico">
+      <publishTime>01/05/2015 12:41:52</publishTime>
+    </File>
+    <File Include="Images/ICEA Life Logo.png">
+      <publishTime>07/22/2015 07:19:45</publishTime>
+    </File>
+    <File Include="Images/NC logo.png">
+      <publishTime>07/24/2015 14:00:10</publishTime>
+    </File>
+    <File Include="Images/sybrin_logo.jpg">
+      <publishTime>01/05/2015 09:17:35</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>08/06/2015 14:13:22</publishTime>
+    </File>
+    <File Include="login.aspx">
+      <publishTime>08/06/2015 14:13:22</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>01/05/2015 10:25:35</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>08/06/2015 14:13:04</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap-datepicker.js">
+      <publishTime>01/05/2015 10:25:35</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>01/05/2015 10:24:28</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>01/05/2015 10:24:28</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.0.js">
+      <publishTime>01/05/2015 10:24:19</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.0.min.js">
+      <publishTime>01/05/2015 10:24:19</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.0.min.map">
+      <publishTime>01/05/2015 10:24:19</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.1.1.js">
+      <publishTime>12/12/2014 08:39:41</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.1.1.min.js">
+      <publishTime>12/12/2014 08:39:41</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.1.1.min.map">
+      <publishTime>12/12/2014 08:39:41</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui-1.11.2.js">
+      <publishTime>12/12/2014 08:41:45</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui-1.11.2.min.js">
+      <publishTime>12/12/2014 08:41:45</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.ar.js">
+      <publishTime>01/05/2015 10:25:35</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.az.js">
+      <publishTime>01/05/2015 10:25:35</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.bg.js">
+      <publishTime>01/05/2015 10:25:35</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.bs.js">
+      <publishTime>01/05/2015 10:25:35</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.ca.js">
+      <publishTime>01/05/2015 10:25:35</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.cs.js">
+      <publishTime>01/05/2015 10:25:35</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.cy.js">
+      <publishTime>01/05/2015 10:25:35</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.da.js">
+      <publishTime>01/05/2015 10:25:35</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.de.js">
+      <publishTime>01/05/2015 10:25:35</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.el.js">
+      <publishTime>01/05/2015 10:25:35</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.en-GB.js">
+      <publishTime>01/05/2015 10:25:35</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.es.js">
+      <publishTime>01/05/2015 10:25:35</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.et.js">
+      <publishTime>01/05/2015 10:25:35</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.eu.js">
+      <publishTime>01/05/2015 10:25:35</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.fa.js">
+      <publishTime>01/05/2015 10:25:35</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.fi.js">
+      <publishTime>01/05/2015 10:25:35</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.fo.js">
+      <publishTime>01/05/2015 10:25:35</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.fr-CH.js">
+      <publishTime>01/05/2015 10:25:35</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.fr.js">
+      <publishTime>01/05/2015 10:25:35</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.gl.js">
+      <publishTime>01/05/2015 10:25:35</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.he.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.hr.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.hu.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.hy.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.id.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.is.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.it-CH.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.it.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.ja.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.ka.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.kh.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.kk.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.kr.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.lt.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.lv.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.mk.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.ms.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.nb.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.nl-BE.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.nl.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.no.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.pl.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.pt-BR.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.pt.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.ro.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.rs-latin.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.rs.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.ru.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.sk.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.sl.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.sq.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.sr-latin.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.sr.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.sv.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.sw.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.th.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.tr.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.uk.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.vi.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.zh-CN.js">
+      <publishTime>01/05/2015 10:25:34</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.zh-TW.js">
+      <publishTime>01/05/2015 10:25:33</publishTime>
+    </File>
+    <File Include="Scripts/npm.js">
+      <publishTime>01/05/2015 10:24:28</publishTime>
+    </File>
+    <File Include="UserRegister.aspx">
+      <publishTime>08/06/2015 14:13:22</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/06/2015 14:13:01</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

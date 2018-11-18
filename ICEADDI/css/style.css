@@ -1,0 +1,9 @@
+﻿body {
+    padding:10px;
+}
+
+#divider {
+    height:5px;
+    background-color:#e6e4e4;
+    width:100%;
+}

@@ -1,0 +1,5 @@
+c:\users\emuwanga\documents\visual studio 2012\Projects\ICEADDI\ICEADDI\bin\ICEADDI.dll
+c:\users\emuwanga\documents\visual studio 2012\Projects\ICEADDI\ICEADDI\bin\ICEADDI.pdb
+c:\users\emuwanga\documents\visual studio 2012\Projects\ICEADDI\ICEADDI\obj\Debug\ICEADDI.csprojResolveAssemblyReference.cache
+c:\users\emuwanga\documents\visual studio 2012\Projects\ICEADDI\ICEADDI\obj\Debug\ICEADDI.dll
+c:\users\emuwanga\documents\visual studio 2012\Projects\ICEADDI\ICEADDI\obj\Debug\ICEADDI.pdb

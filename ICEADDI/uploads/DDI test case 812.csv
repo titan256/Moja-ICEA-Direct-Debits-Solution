@@ -1,0 +1,4 @@
+Reference Number,Commencement Date,Expiry Date,Amount,Frequency,Client Bank Code,Client Branch Code,Client Account,Remarks,Due Date,Policy Number 1,Policy Number 2
+1,5/6/2015,5/6/2025,4000,1,2,1,1.23457E+14,test,13/6/2015,ANB4S001,
+2,5/7/2015,5/7/2020,8000,1,35,1,3000001774,test,15/7/2015,,
+3,6/5/2015,6/6/2021,2000,1,1,1,2035280,tst,20/6/2015,123456,
